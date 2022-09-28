@@ -1,2 +1,2 @@
 # git_test
-My 2nd Github sonofabich
+My 2nd Github
